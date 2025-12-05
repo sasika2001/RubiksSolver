@@ -1,4 +1,3 @@
-# solver_3x3.py
 import pycuber as pc
 
 def solve_cube(scramble_moves=None):
